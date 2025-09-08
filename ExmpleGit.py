@@ -1,5 +1,5 @@
 #1
-print(" chinchila")
+print("dog")
 
 #2
 print(" Hello Enter your adress: pinchas eylon 9")
